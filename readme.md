@@ -83,11 +83,8 @@ Check out the [examples](./examples) directory for more usage examples and inspi
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/sisu-animations).
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/Mencraft/sisu-animations).
 
 ## License
 
 This package is licensed under the [MIT License](./LICENSE).
-```
-
-You can now copy and paste this markdown content into your `README.md` file for your "sisu-animations" package.
