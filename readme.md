@@ -1,4 +1,3 @@
-```markdown
 # Sisu Animations
 
 Sisu Animations is a powerful and easy-to-use animation package for React applications. It provides a collection of pre-built animations that you can easily integrate into your projects to add visual appeal and enhance user experience.
